@@ -1,0 +1,19 @@
+body.contenedor-general {
+    background-color: #e5d2f9;
+}
+
+table.table {
+    background-color: #030424;
+}
+
+input.input {
+    background-color: #578e78;
+}
+
+button.borrar {
+    background-color: #ab5f54;
+}
+
+button.num {
+    background-color: #a7a7a7;
+}
